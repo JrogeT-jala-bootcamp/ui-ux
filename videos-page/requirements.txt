@@ -1,0 +1,39 @@
+Página de inicio en la cual se puedan ver de algunos videos: el tiempo que dura, una breve descripción y la miniatura/poster/gif. 
+
+Página del reproductor, donde se podrá ver el video requerido. 
+
+Cambiar la imagen de perfil del usuario. 
+
+Mostrar una barra de navegación para poder cambiar de páginas, asi como también para poder buscar cualquier video en la plataforma. 
+
+Log in para los usuarios ya registrados. 
+
+Sign up para los nuevos usuarios (dos opciones): 
+
+Formulario de Registro (Manual) 
+
+Correo 
+
+Nombre Completo 
+
+Foto (avatar - opcional) 
+
+Credenciales 
+
+Registro por medio de plataformas de terceros (Google, Facebook, Apple) 
+
+Registrar nuevos videos mediante un formulario requiriendo la siguiente información: 
+
+Nombre del video 
+
+Autor(es) 
+
+Duración 
+
+Categorías 
+
+Idioma 
+
+Miniatura/Poster/Gif 
+
+Url donde está el video 
